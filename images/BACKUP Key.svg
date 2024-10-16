@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15mm"
+   height="13mm"
+   viewBox="0 0 15 13"
+   version="1.1"
+   id="svg6327"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="BACKUP Key.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6329"
+     pagecolor="#2173f3"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.6879694"
+     inkscape:cx="17.322805"
+     inkscape:cy="23.135441"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6324">
+    <rect
+       x="1.1510169"
+       y="7.2514067"
+       width="54.212898"
+       height="33.379491"
+       id="rect13969" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#fdfefe;stroke-width:0.25;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="7.4307733"
+       y="4.4767365"
+       id="text18958"><tspan
+         sodipodi:role="line"
+         id="tspan18956"
+         style="font-size:6.35px;stroke-width:0.25"
+         x="7.4307733"
+         y="4.4767365">BACK</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.25"
+         x="7.4307733"
+         y="12.414237"
+         id="tspan18967">UP</tspan></text>
+  </g>
+</svg>

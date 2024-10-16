@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15mm"
+   height="13mm"
+   viewBox="0 0 15 13"
+   version="1.1"
+   id="svg44001"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="XNEG Key.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44003"
+     pagecolor="#2173f3"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="12.286644"
+     inkscape:cx="22.5855"
+     inkscape:cy="25.312038"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs43998" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.25;stroke-linejoin:round"
+       x="7.1708961"
+       y="7.5585117"
+       id="text45213"><tspan
+         sodipodi:role="line"
+         id="tspan45211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25"
+         x="7.1708961"
+         y="7.5585117">-X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:#ffffff;stroke-width:0.25;stroke-linejoin:round"
+       x="7.4939098"
+       y="11.499275"
+       id="text45217"><tspan
+         sodipodi:role="line"
+         id="tspan45215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25"
+         x="7.4939098"
+         y="11.499275">(J1)</tspan></text>
+  </g>
+</svg>

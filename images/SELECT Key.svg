@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15mm"
+   height="13mm"
+   viewBox="0 0 15 13"
+   version="1.1"
+   id="svg19623"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="SELECT Key.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19625"
+     pagecolor="#e9e9e9"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="12.286644"
+     inkscape:cx="26.817738"
+     inkscape:cy="24.253978"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs19620">
+    <rect
+       x="0.48833513"
+       y="8.0575297"
+       width="55.670205"
+       height="29.462886"
+       id="rect20835" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.08613689,1.5935325)"
+       id="text20833"
+       style="font-size:16px;text-align:center;white-space:pre;shape-inside:url(#rect20835);display:inline;fill:#000000;stroke:#000000;stroke-width:0.944882;stroke-linejoin:round"><tspan
+         x="5.3623047"
+         y="22.614644"
+         id="tspan60261"><tspan
+           style="font-family:Calibri;-inkscape-font-specification:Calibri"
+           id="tspan60259">SELECT</tspan></tspan></text>
+  </g>
+</svg>
